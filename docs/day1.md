@@ -235,6 +235,7 @@ SyntaxError: unterminated string literal
 **练习 2：Python 计算器**
 
 用 Python 计算以下结果：
+
 - 365 乘以 24（一年有多少小时？）
 - 1000 除以 7（保留小数没关系）
 - 2 的 10 次方（提示：Python 里用 `**` 表示乘方，写成 `2 ** 10`）
@@ -242,6 +243,7 @@ SyntaxError: unterminated string literal
 **练习 3：和报错做朋友**
 
 故意写几行错误的代码，看看 Python 会给你什么样的报错信息。试着理解每条报错在说什么。比如：
+
 - 把 `print` 拼错
 - 漏掉一个引号
 - 漏掉一个括号

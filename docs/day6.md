@@ -175,6 +175,7 @@ my_function()       # 正常输出
 **练习 1：温度转换函数**
 
 写两个函数：
+
 - `celsius_to_fahrenheit(c)` 把摄氏度转成华氏度
 - `fahrenheit_to_celsius(f)` 把华氏度转成摄氏度
 
@@ -187,6 +188,7 @@ my_function()       # 正常输出
 **练习 3：简易通讯录（函数版）**
 
 把 Day 5 练习里的通讯录改成函数版。定义这些函数：
+
 - `add_contact(contacts, name, phone)` 添加联系人
 - `find_contact(contacts, name)` 查找联系人
 - `show_all(contacts)` 显示所有联系人
