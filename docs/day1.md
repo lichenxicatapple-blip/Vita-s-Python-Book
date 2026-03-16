@@ -260,4 +260,4 @@ SyntaxError: unterminated string literal
 
 ---
 
-**配套文件下载：** [hello.py](downloads/hello.py){ download }
+**配套文件下载：** [hello.py](downloads/hello.py){ download="hello.py" }

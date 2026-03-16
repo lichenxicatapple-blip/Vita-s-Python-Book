@@ -220,4 +220,4 @@ else:
 
 ---
 
-**配套文件下载：** [batch.py](downloads/batch.py){ download }
+**配套文件下载：** [batch.py](downloads/batch.py){ download="batch.py" }

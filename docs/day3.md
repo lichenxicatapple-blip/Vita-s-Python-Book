@@ -208,4 +208,4 @@ else:
 
 ---
 
-**配套文件下载：** [quiz.py](downloads/quiz.py){ download }
+**配套文件下载：** [quiz.py](downloads/quiz.py){ download="quiz.py" }

@@ -208,4 +208,4 @@ my_function()       # 正常输出
 
 ---
 
-**配套文件下载：** [functions.py](downloads/functions.py){ download }
+**配套文件下载：** [functions.py](downloads/functions.py){ download="functions.py" }

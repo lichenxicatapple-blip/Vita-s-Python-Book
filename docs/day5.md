@@ -254,4 +254,4 @@ print(city_names)    # ['成都', '大理', '厦门']
 
 ---
 
-**配套文件下载：** [travel_plan.py](downloads/travel_plan.py){ download }
+**配套文件下载：** [travel_plan.py](downloads/travel_plan.py){ download="travel_plan.py" }

@@ -342,4 +342,4 @@ python3 analyzer.py
 
 ---
 
-**配套文件下载：** [analyzer.py](downloads/analyzer.py){ download } | [sales_data.xlsx](downloads/sales_data.xlsx){ download }
+**配套文件下载：** [analyzer.py](downloads/analyzer.py){ download="analyzer.py" } | [sales_data.xlsx](downloads/sales_data.xlsx){ download="sales_data.xlsx" }

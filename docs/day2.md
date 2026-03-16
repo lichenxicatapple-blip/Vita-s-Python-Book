@@ -232,4 +232,4 @@ BMI 的公式是：体重（公斤）除以 身高（米）的平方。写一个
 
 ---
 
-**配套文件下载：** [aa_calc.py](downloads/aa_calc.py){ download }
+**配套文件下载：** [aa_calc.py](downloads/aa_calc.py){ download="aa_calc.py" }
