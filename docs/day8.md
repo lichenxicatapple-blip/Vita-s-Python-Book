@@ -329,11 +329,13 @@ python3 analyzer.py
 - 把今天的分析工具改一改，去处理你自己的数据
 
 **值得继续学的内容：**
+
 - **pandas 库**：`pip3 install pandas`。专门做数据分析的工具，一行代码读取 Excel、几行代码完成筛选/分组/统计，是数据工作者的必备技能
 - **matplotlib 库**：`pip3 install matplotlib`。画图表用的。做完数据分析后，直接生成柱状图、折线图、饼图
 - **xlsxwriter 库**：`pip3 install xlsxwriter`。可以生成带格式的 Excel 文件（加粗、颜色、合并单元格等）
 
 **学习资源：**
+
 - Python 官方文档：https://docs.python.org/zh-cn/3/
 - openpyxl 文档：https://openpyxl.readthedocs.io/
 - 遇到问题直接搜索错误信息，Stack Overflow 上几乎什么问题都有人问过
